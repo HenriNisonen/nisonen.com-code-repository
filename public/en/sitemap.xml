@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>www.nisonen.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/"
+                href="www.nisonen.com/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="www.nisonen.com/"
                 />
   </url><url>
-    <loc>http://localhost:1313/license/</loc>
+    <loc>www.nisonen.com/license/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/license/"
+                href="www.nisonen.com/de/license/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/license/"
+                href="www.nisonen.com/license/"
                 />
   </url><url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>www.nisonen.com/services/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/services/"
+                href="www.nisonen.com/de/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/services/"
+                href="www.nisonen.com/services/"
                 />
   </url><url>
-    <loc>http://localhost:1313/legal/</loc>
+    <loc>www.nisonen.com/legal/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/legal/"
+                href="www.nisonen.com/de/legal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/legal/"
+                href="www.nisonen.com/legal/"
                 />
   </url>
 </urlset>
